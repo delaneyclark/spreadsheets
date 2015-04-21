@@ -3,8 +3,7 @@ table.temp {
 	height: 800px;
 }
 
-div.temp {
+div {
 	width: 150px;
 	height: 150px;
-	display: inline;
 }
