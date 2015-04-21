@@ -1,0 +1,10 @@
+.temp {
+	width: 300px;
+	height: 800px;
+}
+
+div {
+	width: 150px;
+	height: 150px;
+	display: inline;
+}
